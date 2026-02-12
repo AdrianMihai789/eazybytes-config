@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Ioana Predoi - QA LEAD"
+    email: "ioana.predoi@gmail.com"
+  onCallSupport:
+    - "(555)515-2211"
+    - "(555)513-3322"
