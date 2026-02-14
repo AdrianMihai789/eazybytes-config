@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related production API's"
   contactDetails:
-    name: "Dragusanu Octavian - PROD LEAD"
+    name: "Dragusanu Octavian - PROD LEADer"
     email: "dragusanu.octavian@gmail.com"
   onCallSupport:
     - "(555)555-1211"
