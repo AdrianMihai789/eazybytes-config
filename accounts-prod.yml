@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production API's"
+  message: "Welcome to EazyBank accounts related production API'ssss"
   contactDetails:
     name: "Dragusanu Octavian - PROD Leader"
     email: "dragusanu.octavian@gmail.com"
