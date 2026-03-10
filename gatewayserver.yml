@@ -8,3 +8,4 @@ eureka:
     fetchRegistry: true
     serviceUrl:
       defaultZone: "http://localhost:8070/eureka/"
+      # Our gateway server has enough details about our microservices, how it is going to get all these details is by connecting with the service discovery agent, which is Eureka.
